@@ -1,0 +1,13 @@
+seaborn
+streamlit
+numpy
+sounddevice
+matplotlib
+pandas
+scikit_learn
+praat-parselmouth
+librosa
+sounddevice
+soundfile
+IPython
+
